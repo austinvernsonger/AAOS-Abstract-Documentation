@@ -72,7 +72,7 @@ source_suffix = ['.rst', '.md', '.txt']
 master_doc = 'index'
 
 # General information about the project.
-project = 'AAOS Abstract System Documentation'
+project = 'AAOS Abstract System'
 copyright = '2016, Austin Vern Songer'
 author = 'Austin Vern Songer'
 
@@ -157,7 +157,7 @@ todo_include_todos = True
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
- html_title = 'AAOS Abstract System Documentation v1'
+# html_title = 'AAOS Abstract System Documentation v1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -283,7 +283,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'AAOSAbstractSystemDocumentation.tex', 'AAOS Abstract System Documentation',
+    (master_doc, 'AAOSAbstractSystemDocumentation.tex', 'AAOS Abstract System',
      'Austin Vern Songer', 'manual'),
 ]
 
@@ -319,7 +319,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'aaosabstractsystemdocumentation', 'AAOS Abstract System Documentation',
+    (master_doc, 'aaosabstractsystemdocumentation', 'AAOS Abstract System',
      [author], 1)
 ]
 
@@ -334,7 +334,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'AAOSAbstractSystemDocumentation', 'AAOS Abstract System Documentation',
+    (master_doc, 'AAOSAbstractSystemDocumentation', 'AAOS Abstract System',
      author, 'AAOSAbstractSystemDocumentation', 'One line description of project.',
      'Miscellaneous'),
 ]
