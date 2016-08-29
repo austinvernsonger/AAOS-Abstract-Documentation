@@ -10,5 +10,6 @@ AAOS
     :target: http://aaos-abstract-documentation.readthedocs.io/en/latest/?badge=latest    
     
 
+`Latest PDF Version`_.
 
-[Download The Latest PDF Version](https://media.readthedocs.org/pdf/aaos-abstract-documentation/latest/aaos-abstract-documentation.pdf)
+.. _Latest PDF Version: https://media.readthedocs.org/pdf/aaos-abstract-documentation/latest/aaos-abstract-documentation.pdf
