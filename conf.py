@@ -157,7 +157,7 @@ todo_include_todos = True
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'AAOS Abstract System Documentation v1'
+ html_title = 'AAOS Abstract System Documentation v1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -189,7 +189,7 @@ html_static_path = ['_static']
 # bottom, using the given strftime format.
 # The empty string is equivalent to '%b %d, %Y'.
 #
-# html_last_updated_fmt = None
+html_last_updated_fmt = '%b %d, %Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
