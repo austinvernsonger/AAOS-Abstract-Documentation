@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# AAOS Abstract System - Documentation documentation build configuration file, created by
-# sphinx-quickstart on Mon Aug 29 13:30:47 2016.
+# AAOS Abstract System Documentation documentation build configuration file, created by
+# sphinx-quickstart on Mon Aug 29 13:56:40 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -59,7 +59,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'AAOS Abstract System - Documentation'
+project = 'AAOS Abstract System Documentation'
 copyright = '2016, Austin Vern Songer'
 author = 'Austin Vern Songer'
 
@@ -68,7 +68,7 @@ author = 'Austin Vern Songer'
 # built documents.
 #
 # The short X.Y version.
-version = '1.0.0'
+version = '1'
 # The full version, including alpha/beta/rc tags.
 release = '1'
 
@@ -91,7 +91,7 @@ language = None
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -144,7 +144,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'AAOS Abstract System - Documentation v1'
+# html_title = 'AAOS Abstract System Documentation v1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -244,7 +244,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'AAOSAbstractSystem-Documentationdoc'
+htmlhelp_basename = 'AAOSAbstractSystemDocumentationdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -270,7 +270,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'AAOSAbstractSystem-Documentation.tex', 'AAOS Abstract System - Documentation Documentation',
+    (master_doc, 'AAOSAbstractSystemDocumentation.tex', 'AAOS Abstract System Documentation Documentation',
      'Austin Vern Songer', 'manual'),
 ]
 
@@ -306,7 +306,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'aaosabstractsystem-documentation', 'AAOS Abstract System - Documentation Documentation',
+    (master_doc, 'aaosabstractsystemdocumentation', 'AAOS Abstract System Documentation Documentation',
      [author], 1)
 ]
 
@@ -321,8 +321,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'AAOSAbstractSystem-Documentation', 'AAOS Abstract System - Documentation Documentation',
-     author, 'AAOSAbstractSystem-Documentation', 'One line description of project.',
+    (master_doc, 'AAOSAbstractSystemDocumentation', 'AAOS Abstract System Documentation Documentation',
+     author, 'AAOSAbstractSystemDocumentation', 'One line description of project.',
      'Miscellaneous'),
 ]
 
