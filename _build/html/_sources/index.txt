@@ -34,6 +34,61 @@ Abstract-WorkFlow
    :caption: Form Layout
 
 
+Specialty Societies
+~~~~~~~~~~~~~~~~~~~~
+
+- ACPOC
+- ASES
+- CSRS
+- HIP
+- KNEE
+- MSTS
+
+
+Abstract Module Documentation 
++++++++++++++++++++++++++++++++
+
+http://pilot.aaos.org/sdg/_layouts/15/start.aspx#/SitePages/AbstractSpecialtySocieties.aspx
+
+
+Links to Abstract Applications
++++++++++++++++++++++++++++++++
+
++---------+-----------+
+| Society | Test URL  |
++=========+===========+
+|APOC     |           |
++---------+-----------+
+|ASES     |           |
++---------+-----------+
+|CSRS     |           |
++---------+-----------+
+|HIP      |           |
++---------+-----------+
+|KNEE     |           |
++---------+-----------+
+|MSTS     |           |
++---------+-----------+
+
+
++---------+-----------+
+| Society | Live URL  |
++=========+===========+
+|APOC     |           |
++---------+-----------+
+|ASES     |           |
++---------+-----------+
+|CSRS     |           |
++---------+-----------+
+|HIP      |           |
++---------+-----------+
+|KNEE     |           |
++---------+-----------+
+|MSTS     |           |
++---------+-----------+
+
+
+
 Aspects of the Abstract Submission Process
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
