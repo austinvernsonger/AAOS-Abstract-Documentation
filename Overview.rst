@@ -28,33 +28,33 @@ Links to Abstract Applications
 +=========+======================================================================+
 |APOC     |http://test.specacpoc.org/abstracts/defaultmenu.aspx                  |
 +---------+----------------------------------------------------------------------+
-|ASES     |http://test.msts.org/education_meetings/abstracts/defaultmenu.aspx    |
+|ASES     |http://test.ases-assn.org/Abstracts/DefaultMenu.aspx                  |
 +---------+----------------------------------------------------------------------+
-|CSRS     |http://test.ases-assn.org/Abstracts/DefaultMenu.aspx                  |
+|CSRS     |http://test.csrs.org/abstracts/defaultmenu.aspx                       |
 +---------+----------------------------------------------------------------------+
 |HIP      |http://test.hipsoc.org/abstracts/defaultmenu.aspx                     |
 +---------+----------------------------------------------------------------------+
 |KNEE     |http://test.kneesociety.org/abstracts/defaultmenu.aspx                |
 +---------+----------------------------------------------------------------------+
-|MSTS     |http://test.csrs.org/abstracts/defaultmenu.aspx                       |
+|MSTS     |http://test.msts.org/education_meetings/abstracts/defaultmenu.aspx    |
 +---------+----------------------------------------------------------------------+
-
 
 +---------+----------------------------------------------------------------------+
 | Society | Live URL                                                             |
 +=========+======================================================================+
 |APOC     |http://www.specacpoc.org/abstracts/defaultmenu.aspx                   |
 +---------+----------------------------------------------------------------------+
-|ASES     |http://www.msts.org/education_meetings/abstracts/defaultmenu.aspx     |
+|ASES     |http://spec.ases-assn.org/abstracts/defaultmenu.aspx                  |
 +---------+----------------------------------------------------------------------+
-|CSRS     |http://spec.ases-assn.org/abstracts/defaultmenu.aspx                  |
+|CSRS     |http://spec.csrs.org/abstracts/defaultmenu.aspx                       |
 +---------+----------------------------------------------------------------------+
 |HIP      |http://spec.hipsoc.org/abstracts/defaultmenu.aspx                     |
 +---------+----------------------------------------------------------------------+
 |KNEE     |http://www.kneesociety.org/abstracts/defaultmenu.aspx                 |
 +---------+----------------------------------------------------------------------+
-|MSTS     |http://spec.csrs.org/abstracts/defaultmenu.aspx                       |
+|MSTS     |http://www.msts.org/education_meetings/abstracts/defaultmenu.aspx     |
 +---------+----------------------------------------------------------------------+
+
 
 
 
