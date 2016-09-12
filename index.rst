@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Abstract-WorkFlow
+AAOS Abstract
 =============================================
+
+
+Please use sidebar menu for navigation.
 
 
 .. toctree::
