@@ -22,38 +22,38 @@ http://pilot.aaos.org/sdg/_layouts/15/start.aspx#/SitePages/AbstractSpecialtySoc
 Links to Abstract Applications
 +++++++++++++++++++++++++++++++
 
-+---------+-----------+
-| Society | Test URL  |
-+=========+===========+
-|APOC     |           |
-+---------+-----------+
-|ASES     |           |
-+---------+-----------+
-|CSRS     |           |
-+---------+-----------+
-|HIP      |           |
-+---------+-----------+
-|KNEE     |           |
-+---------+-----------+
-|MSTS     |           |
-+---------+-----------+
++---------+----------------------------------------------------------------------+
+| Society | Test URL                                                             |
++=========+======================================================================+
+|APOC     |http://test.specacpoc.org/abstracts/ defaultmenu.aspx                 |
++---------+----------------------------------------------------------------------+
+|ASES     |http://test.msts.org/education_meetings/abstracts/defaultmenu.aspx    |
++---------+----------------------------------------------------------------------+
+|CSRS     |http://test.ases-assn.org/Abstracts/DefaultMenu.aspx                  |
++---------+----------------------------------------------------------------------+
+|HIP      |http://test.hipsoc.org/abstracts/defaultmenu.aspx                     |
++---------+----------------------------------------------------------------------+
+|KNEE     |http://test.kneesociety.org/abstracts/defaultmenu.aspx                |
++---------+----------------------------------------------------------------------+
+|MSTS     |http://test.csrs.org/abstracts/defaultmenu.aspx                       |
++---------+----------------------------------------------------------------------+
 
 
-+---------+-----------+
-| Society | Live URL  |
-+=========+===========+
-|APOC     |           |
-+---------+-----------+
-|ASES     |           |
-+---------+-----------+
-|CSRS     |           |
-+---------+-----------+
-|HIP      |           |
-+---------+-----------+
-|KNEE     |           |
-+---------+-----------+
-|MSTS     |           |
-+---------+-----------+
++---------+----------------------------------------------------------------------+
+| Society | Live URL                                                             |
++=========+======================================================================+
+|APOC     |http://www.specacpoc.org/abstracts/defaultmenu.aspx                   |
++---------+----------------------------------------------------------------------+
+|ASES     |http://www.msts.org/education_meetings/abstracts/defaultmenu.aspx     |
++---------+----------------------------------------------------------------------+
+|CSRS     |http://spec.ases-assn.org/abstracts/defaultmenu.aspx                  |
++---------+----------------------------------------------------------------------+
+|HIP      |http://spec.hipsoc.org/abstracts/defaultmenu.aspx                     |
++---------+----------------------------------------------------------------------+
+|KNEE     |http://www.kneesociety.org/abstracts/defaultmenu.aspx                 |
++---------+----------------------------------------------------------------------+
+|MSTS     |http://spec.csrs.org/abstracts/defaultmenu.aspx                       |
++---------+----------------------------------------------------------------------+
 
 
 
@@ -100,3 +100,7 @@ Co-Authors name needs to be changed
 
   -	Should the name be changed in AAOS Personify?
   -	Ensure that the name is changed in the coauthor table
+
+
+
+
