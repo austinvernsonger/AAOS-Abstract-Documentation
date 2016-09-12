@@ -25,7 +25,7 @@ Links to Abstract Applications
 +---------+----------------------------------------------------------------------+
 | Society | Test URL                                                             |
 +=========+======================================================================+
-|APOC     |http://test.specacpoc.org/abstracts/ defaultmenu.aspx                 |
+|APOC     |http://test.specacpoc.org/abstracts/defaultmenu.aspx                 |
 +---------+----------------------------------------------------------------------+
 |ASES     |http://test.msts.org/education_meetings/abstracts/defaultmenu.aspx    |
 +---------+----------------------------------------------------------------------+
